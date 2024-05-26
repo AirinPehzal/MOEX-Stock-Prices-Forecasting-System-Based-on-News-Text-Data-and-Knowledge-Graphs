@@ -1,5 +1,5 @@
 # MOEX Stock Prices Forecasting System Based on News Text Data and Knowledge Graphs
-This repository provides source codes on all testing done on different ontology generation algorithms in MOEX-Stock-Prices-Forecasting-System-Based-on-News-Text-Data-and-Knowledge-Graphs thesis.
+This repository provides source codes on all testing done on different ontology generation algorithms in MOEX Stock Prices Forecasting System Based on News Text Data and Knowledge Graphs thesis.
 
 # Basic Preprocessing and Entity Extraction
 Source code for preprocessing Lenta.ru news dataset (available at https://www.kaggle.com/datasets/yutkin/corpus-of-russian-news-articles-from-lenta) via spacy. Entity extraction is also conducted in the same file.
