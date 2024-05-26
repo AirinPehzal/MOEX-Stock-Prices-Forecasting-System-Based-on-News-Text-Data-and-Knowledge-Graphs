@@ -1,0 +1,546 @@
+term,occurences,type,link
+apple,2565,org,http://dbpedia.org/resource/Apple_Inc.
+techcrunch,197,org,http://dbpedia.org/resource/AOL
+gsm,46,org,http://dbpedia.org/resource/GSM
+google,1659,org,http://dbpedia.org/resource/Google_Books
+htc,221,org,http://dbpedia.org/resource/HTC
+qualcomm,115,org,http://dbpedia.org/resource/Qualcomm
+regnum,208,org,http://dbpedia.org/resource/MI5
+высокий школа экономика,264,org,link_not_found
+госдума,11830,org,http://dbpedia.org/resource/State_Duma
+российский экономический школа,46,org,link_not_found
+reuters,3802,org,http://dbpedia.org/resource/Reuters
+владимир путин,15342,pers,http://dbpedia.org/resource/Vladimir_Putin
+сергей гуриев,56,pers,http://dbpedia.org/resource/Sergei_Guriev
+дворкович,305,pers,http://dbpedia.org/resource/Arkady_Dvorkovich
+аркадий дворковича,150,pers,link_not_found
+риа новость,25716,org,link_not_found
+время новость,90,org,link_not_found
+газпром,4411,org,http://dbpedia.org/resource/Gazprom
+нурсултан назарбаев,140,pers,http://dbpedia.org/resource/Nursultan_Nazarbayev
+хромой лошадь,94,org,link_not_found
+гувд,1353,org,http://dbpedia.org/resource/Federal_Migration_Service
+коммерсант,3007,org,http://dbpedia.org/resource/Hermitage_Capital_Management
+госпожнадзора,48,org,link_not_found
+интерфакс,25067,org,http://dbpedia.org/resource/Interfax
+гу,3637,org,http://dbpedia.org/resource/J1_League
+мчс,4657,org,http://dbpedia.org/resource/Ministry_of_Emergency_Situations_(Russia)
+bbc news,857,org,http://dbpedia.org/resource/BBC_News_(TV_channel)
+итар-тасс,4446,org,http://dbpedia.org/resource/TASS
+росбалт,445,org,http://dbpedia.org/resource/Children-404
+мерседес,260,org,http://dbpedia.org/resource/Mercedes-Benz
+ввс,2442,org,http://dbpedia.org/resource/Strategic_Air_Command
+merrill lynch,75,org,http://dbpedia.org/resource/Merrill_Lynch_&_Co.
+йельский университет,83,org,http://dbpedia.org/resource/Yale_University
+bank of america,219,org,http://dbpedia.org/resource/Bank_of_America_Home_Loans
+morgan stanley,301,org,http://dbpedia.org/resource/Morgan_Stanley_Wealth_Management
+европейский космический агентство,273,org,link_not_found
+фобос,84,pers,http://dbpedia.org/resource/Anteros
+вмс,1029,org,http://dbpedia.org/resource/United_States_Navy
+вмф,645,org,http://dbpedia.org/resource/Russian_Navy
+военно-морской сила,78,org,link_not_found
+мособлсуд,54,org,link_not_found
+нтв,551,org,http://dbpedia.org/resource/NTV_(Russia)
+анастасия,70,pers,http://dbpedia.org/resource/Anastasia_Rodionova
+вымпелком,497,org,http://dbpedia.org/resource/VEON
+мегафон,734,org,http://dbpedia.org/resource/MegaFon
+роскомнадзор,273,org,http://dbpedia.org/resource/Twitter
+ведомость,5058,org,link_not_found
+мтс,691,org,http://dbpedia.org/resource/Second
+дмитрий медведев,7479,pers,http://dbpedia.org/resource/Dmitry_Medvedev
+лдпр,2733,org,http://dbpedia.org/resource/Liberal_Democratic_Party_of_Russia
+омон,762,org,http://dbpedia.org/resource/Ministry_of_Internal_Affairs_(Russia)
+жириновский,519,pers,http://dbpedia.org/resource/Vladimir_Zhirinovsky
+владимир жириновский,1084,pers,http://dbpedia.org/resource/Vladimir_Zhirinovsky
+мэа,58,org,http://dbpedia.org/resource/International_Energy_Agency
+международный энергетический агентство (мэа),64,org,link_not_found
+скп,888,org,http://dbpedia.org/resource/Motor_České_Budějovice
+мосгорсуд,1136,org,http://dbpedia.org/resource/Moscow_City_Court
+гибдд,2110,org,http://dbpedia.org/resource/Oryol_Law_Institute
+симоновский суд,57,org,link_not_found
+анатолий багмет,39,pers,link_not_found
+мосгордума,592,org,http://dbpedia.org/resource/Moscow_City_Duma
+октябрьский,48,org,http://dbpedia.org/resource/FC_Devon_Oktyabrsky
+российский газета,1077,org,link_not_found
+сми,10785,org,http://dbpedia.org/resource/Falkirk_F.C.
+управление дело президент,103,org,link_not_found
+макаров,297,pers,http://dbpedia.org/resource/Sergei_Makarov_(ice_hockey)
+afp,987,org,http://dbpedia.org/resource/Agence_France-Presse
+british airways,92,org,http://dbpedia.org/resource/British_Airways
+сечин,453,pers,http://dbpedia.org/resource/Igor_Sechin
+игорь сечин,900,pers,http://dbpedia.org/resource/Igor_Sechin
+defence talk,57,org,link_not_found
+военно-воздушный сила,108,org,link_not_found
+американский космический агентство,129,org,link_not_found
+хаббл,167,org,"http://dbpedia.org/resource/The_Queen's_College,_Oxford"
+nasa,789,org,http://dbpedia.org/resource/NASA
+сбербанк,3233,org,http://dbpedia.org/resource/Sberbank
+асв,386,org,http://dbpedia.org/resource/Hetman_Petro_Sahaidachnyi_National_Ground_Forces_Academy
+агентство по страхование вклад (асв),283,org,link_not_found
+втб,1790,org,http://dbpedia.org/resource/BC_UNICS
+вэбу,114,org,link_not_found
+evraz,61,org,http://dbpedia.org/resource/Evraz
+внешэкономбанк,601,org,http://dbpedia.org/resource/VEB.RF
+вэба,398,org,link_not_found
+вэб,523,org,http://dbpedia.org/resource/VEB.RF
+evraz group,39,org,http://dbpedia.org/resource/Evraz
+александр абрамов,51,pers,http://dbpedia.org/resource/Alexander_Abramov
+абрамович,90,pers,http://dbpedia.org/resource/Roman_Abramovich
+роман абрамович,185,pers,http://dbpedia.org/resource/Roman_Abramovich
+вэбом,76,org,link_not_found
+нрб,41,org,http://dbpedia.org/resource/Soviet_Armed_Forces
+связь-банк,75,org,link_not_found
+национальный резервный банк,39,org,link_not_found
+глобэкс,44,org,link_not_found
+александр лебедев,149,pers,http://dbpedia.org/resource/Alexander_Lebedev
+воздушно-десантный войско,65,org,link_not_found
+минэкономразвития,3541,org,http://dbpedia.org/resource/Ministry_of_Economic_Development_(Russia)
+росстат,513,org,http://dbpedia.org/resource/Federal_State_Statistics_Service_(Russia)
+мвд,10037,org,http://dbpedia.org/resource/Gulag
+октябрьский районный суд,66,org,link_not_found
+за право человек,94,org,link_not_found
+увд,852,org,http://dbpedia.org/resource/Belarus_Free_Theatre
+милиционер,44,pers,http://dbpedia.org/resource/Vitaliy_Zakharchenko
+дымовского,41,pers,link_not_found
+лев пономарёв,136,pers,http://dbpedia.org/resource/Lev_Ponomaryov
+bloomberg,3289,org,http://dbpedia.org/resource/Bloomberg_News
+barclays,173,org,http://dbpedia.org/resource/Barclays
+royal bank of scotland,67,org,http://dbpedia.org/resource/NatWest_Group
+gamecube,36,org,http://dbpedia.org/resource/Nintendo
+activision,246,org,http://dbpedia.org/resource/Activision
+gamerankings,38,org,link_not_found
+xbox,2185,org,http://dbpedia.org/resource/Xbox_Live_Arcade
+gamespot,225,org,http://dbpedia.org/resource/Team_SoloMid
+science,623,org,http://dbpedia.org/resource/Citizen_science
+cassini,81,org,http://dbpedia.org/resource/Forward_Madison_FC
+the daily telegraph,192,org,http://dbpedia.org/resource/Spice_Girls
+совет,296,org,http://dbpedia.org/resource/Council_of_the_European_Union
+европарламент,256,org,http://dbpedia.org/resource/Ulster_Unionist_Party
+еврокомиссия,1078,org,http://dbpedia.org/resource/Southern_Gas_Corridor
+чоп,213,org,http://dbpedia.org/resource/FC_Podolye_Podolsky_district
+playstation,180,org,http://dbpedia.org/resource/PlayStation_Network
+the astrophysical journal,136,org,link_not_found
+астрономы,73,pers,http://dbpedia.org/resource/Astronomer
+следственный комитет,7574,org,http://dbpedia.org/resource/Belarusian_Association_of_Journalists
+тайга.инфо,105,org,link_not_found
+тэц,96,org,http://dbpedia.org/resource/Moscow_Power_Engineering_Institute
+мкс,1092,org,http://dbpedia.org/resource/International_Criminal_Court
+wired,141,org,http://dbpedia.org/resource/Porcupine_Tree
+russia today,104,org,http://dbpedia.org/resource/RT_UK
+tele2,179,org,http://dbpedia.org/resource/Hammarby_Fotboll
+москвич,47,org,http://dbpedia.org/resource/Moskvitch
+дед мороз,61,pers,http://dbpedia.org/resource/Gérard_Jugnot
+abc news,41,org,http://dbpedia.org/resource/ABC_News_(Australia)
+arcelormittal,36,org,http://dbpedia.org/resource/ArcelorMittal
+бак,92,org,http://dbpedia.org/resource/R.E.M.
+twitter,1982,org,http://dbpedia.org/resource/Twitter
+cern,39,org,http://dbpedia.org/resource/CERN
+citigroup,285,org,http://dbpedia.org/resource/Citigroup
+центробанк,3308,org,link_not_found
+банк россия,3747,org,http://dbpedia.org/resource/Rossiya_Bank
+цб,5028,org,http://dbpedia.org/resource/Caribbean_Community
+defpro,120,org,link_not_found
+министерство оборона,1966,org,link_not_found
+nestle,69,org,http://dbpedia.org/resource/Nestlé
+владимир мономах,41,org,link_not_found
+александр невский,95,pers,http://dbpedia.org/resource/Alexander_Nevsky
+дмитрий донской,48,pers,http://dbpedia.org/resource/Dmitry_Donskoy
+юрий долгорукий,89,pers,http://dbpedia.org/resource/Yuri_Dolgorukiy
+овд,683,org,http://dbpedia.org/resource/Warsaw_Pact
+эхо москва,711,org,link_not_found
+общественный палата,656,org,link_not_found
+ign,190,org,http://dbpedia.org/resource/GameSpy
+фсб,2672,org,http://dbpedia.org/resource/Federal_Security_Service
+уфсб,183,org,link_not_found
+майдан,47,org,http://dbpedia.org/resource/Cursed_soldiers
+центральный районный суд,68,org,http://dbpedia.org/resource/Children-404
+chelyabinsk.ru,42,org,link_not_found
+лента.ру,1218,org,link_not_found
+космический центр,37,org,http://dbpedia.org/resource/Kennedy_Space_Center
+the astrophysical journal letters,44,org,link_not_found
+lenovo,179,org,http://dbpedia.org/resource/Lenovo
+таможенный союз,437,org,http://dbpedia.org/resource/Eurasian_Customs_Union
+фтс,265,org,http://dbpedia.org/resource/Federal_Customs_Service_of_Russia
+федеральный таможенный служба (фтс),174,org,link_not_found
+ран,838,org,http://dbpedia.org/resource/Run-DMC
+лукойл,1043,org,http://dbpedia.org/resource/Lukoil
+роснефть,2679,org,http://dbpedia.org/resource/Rosneft
+владимир семашко,78,pers,link_not_found
+александр лукашенко,532,pers,http://dbpedia.org/resource/Alexander_Lukashenko
+edf,44,org,http://dbpedia.org/resource/Électricité_de_France
+eni,238,org,http://dbpedia.org/resource/Eni
+александр медведев,167,pers,http://dbpedia.org/resource/Alexander_Medvedev
+ферми,35,org,http://dbpedia.org/resource/United_States_Atomic_Energy_Commission
+new scientist,522,org,http://dbpedia.org/resource/Zetnet
+elbit systems,36,org,http://dbpedia.org/resource/Elbit_Systems
+пятый канал,97,org,http://dbpedia.org/resource/5TV_(Russian_TV_channel)
+eurogamer,822,org,http://dbpedia.org/resource/Gamer_Network
+роскосмос,1338,org,http://dbpedia.org/resource/Lavochkin
+ibm,156,org,http://dbpedia.org/resource/IBM
+toshiba,81,org,http://dbpedia.org/resource/Toshiba
+sony,874,org,http://dbpedia.org/resource/Sony_Music
+sharp,63,org,http://dbpedia.org/resource/Democratic_Party_(United_States)
+teliasonera,45,org,http://dbpedia.org/resource/Telia_Company
+huawei,206,org,http://dbpedia.org/resource/Huawei
+samsung,1146,org,http://dbpedia.org/resource/Samsung
+ericsson,53,org,http://dbpedia.org/resource/Ericsson
+exxonmobil,295,org,http://dbpedia.org/resource/ExxonMobil
+сизо,1460,org,http://dbpedia.org/resource/Group_24
+hermitage capital,210,org,http://dbpedia.org/resource/Hermitage_Capital_Management
+федеральный служба исполнение наказание (фсин),122,org,link_not_found
+фсин,670,org,http://dbpedia.org/resource/Gulag
+hermitage,54,org,http://dbpedia.org/resource/Imperial_Academy_of_Arts
+матросский тишина,223,org,link_not_found
+медведев,3380,pers,http://dbpedia.org/resource/Dmitry_Medvedev
+магнитский,320,pers,http://dbpedia.org/resource/Sergei_Magnitsky
+сергей магнитский,343,pers,http://dbpedia.org/resource/Sergei_Magnitsky
+рспп,141,org,http://dbpedia.org/resource/Russian_Union_of_Industrialists_and_Entrepreneurs
+роструд,52,org,http://dbpedia.org/resource/Federal_Service_for_Labour_and_Employment_(Russia)
+федеральный налоговый служба (фнс),170,org,link_not_found
+фнс,363,org,http://dbpedia.org/resource/National_Salvation_Front_(Romania)
+psp,61,org,http://dbpedia.org/resource/Socialist_Party_of_Chile
+мид,2647,org,http://dbpedia.org/resource/MI6
+сегодня,38,org,http://dbpedia.org/resource/Mandatory_Palestine
+динамо,100,org,http://dbpedia.org/resource/FC_Dynamo_Kyiv
+нобелевский комитет,35,org,http://dbpedia.org/resource/Nobel_Committee
+кадыров,865,pers,http://dbpedia.org/resource/Ramzan_Kadyrov
+шамиль басаев,43,pers,http://dbpedia.org/resource/Shamil_Basayev
+барак обама,936,pers,http://dbpedia.org/resource/Barack_Obama
+басманного суд,71,org,link_not_found
+калифорнийский университет,280,org,"http://dbpedia.org/resource/University_of_California,_Los_Angeles"
+анатолий зак,45,pers,link_not_found
+x5 retail group,155,org,http://dbpedia.org/resource/X5_Group
+карусель,141,org,http://dbpedia.org/resource/Gerry_and_the_Pacemakers
+перекрёсток,165,org,http://dbpedia.org/resource/Carrefour
+пятёрочка,194,org,http://dbpedia.org/resource/Alfa_Group
+пенсионный фонд,708,org,http://dbpedia.org/resource/Government_Pension_Fund_of_Norway
+минздравсоцразвития,142,org,http://dbpedia.org/resource/Gastroenterology
+справедливый россия,2416,org,link_not_found
+верховный суд,1470,org,http://dbpedia.org/resource/Supreme_Court_of_India
+магомедов,106,pers,http://dbpedia.org/resource/Jamaladdin_Magomedov
+московский комсомолец,640,org,http://dbpedia.org/resource/Tsvety
+родина,205,org,http://dbpedia.org/resource/Krupp
+владимир маркин,515,pers,http://dbpedia.org/resource/Vladimir_Markin
+ленты.ру,6701,org,link_not_found
+дпс,758,org,http://dbpedia.org/resource/Movement_for_Rights_and_Freedoms
+черкизовский рынок,64,org,link_not_found
+высокий арбитражный суд,111,org,link_not_found
+росимущества,203,org,http://dbpedia.org/resource/Melodiya
+ленинский районный суд,139,org,link_not_found
+ефремов,41,pers,http://dbpedia.org/resource/Ivan_Yefremov
+адмиралтейский верфь,50,org,link_not_found
+су,230,org,http://dbpedia.org/resource/Sioux_Falls_Skyforce
+транснефть,598,org,http://dbpedia.org/resource/Transneft
+федеральный служба по финансовый рынок,142,org,link_not_found
+международный валютный фонд,629,org,http://dbpedia.org/resource/International_Monetary_Fund
+forbes,1180,org,http://dbpedia.org/resource/Pittsburgh_Steelers
+навальный,1124,pers,http://dbpedia.org/resource/Alexei_Navalny
+алексей кудрин,982,pers,http://dbpedia.org/resource/Alexei_Kudrin
+андрей костин,326,pers,http://dbpedia.org/resource/Andriy_Kostin
+алексей навальный,1739,pers,http://dbpedia.org/resource/Alexei_Navalny
+дональд туск,43,pers,http://dbpedia.org/resource/Donald_Tusk
+втб 24,308,org,link_not_found
+апл,135,org,http://dbpedia.org/resource/Newcastle_United_F.C.
+минобороны,2909,org,http://dbpedia.org/resource/Ministry_of_Defence_(Russia)
+известие,2432,org,http://dbpedia.org/resource/The_Triffids
+аэс,400,org,http://dbpedia.org/resource/Électricité_de_France
+росатом,369,org,http://dbpedia.org/resource/Rosatom
+путин,8431,pers,http://dbpedia.org/resource/Vladimir_Putin
+сергей кириенко,146,pers,http://dbpedia.org/resource/Sergey_Kiriyenko
+agence france-presse,1560,org,http://dbpedia.org/resource/Democratic_socialism
+тройка диалог,72,org,http://dbpedia.org/resource/Sberbank_CIB
+снг,712,org,http://dbpedia.org/resource/Commonwealth_of_Independent_States
+пушкинский,42,org,http://dbpedia.org/resource/Beck's_Brewery
+единый россия,4438,org,link_not_found
+связьинвест,150,org,http://dbpedia.org/resource/Svyazinvest
+система,181,org,http://dbpedia.org/resource/Tariff
+м.видео,111,org,http://dbpedia.org/resource/M.video
+nintendo,365,org,http://dbpedia.org/resource/Nintendo
+samsung electronics,63,org,http://dbpedia.org/resource/Samsung
+ммвб,1170,org,http://dbpedia.org/resource/VTB_Bank
+минфин,4423,org,http://dbpedia.org/resource/Ministry_of_Finance_(Russia)
+id software,53,org,http://dbpedia.org/resource/Id_Software
+bethesda softworks,37,org,http://dbpedia.org/resource/Bethesda_Softworks
+electronic arts,409,org,http://dbpedia.org/resource/Electronic_Arts_Victor
+pc,285,org,http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario
+playstation network,115,org,http://dbpedia.org/resource/PlayStation_Network
+sony computer entertainment,68,org,http://dbpedia.org/resource/Sony_Interactive_Entertainment
+psn,136,org,http://dbpedia.org/resource/PlayStation_Network
+1up,71,org,http://dbpedia.org/resource/Ziff_Davis
+эльвира набиуллина,767,pers,http://dbpedia.org/resource/Elvira_Nabiullina
+мк,168,org,http://dbpedia.org/resource/MC_Alger
+евросеть,269,org,http://dbpedia.org/resource/PJSC_VimpelCom
+it-компания,52,org,http://dbpedia.org/resource/Forticom
+лаборатория касперский,82,org,link_not_found
+юкос,616,org,http://dbpedia.org/resource/Lukoil
+slon.ru,36,org,link_not_found
+яндекс,454,org,http://dbpedia.org/resource/Yandex
+михаил ходорковский,563,pers,http://dbpedia.org/resource/Mikhail_Khodorkovsky
+михаил прохоров,752,pers,http://dbpedia.org/resource/Mikhail_Prokhorov
+евгений чичваркин,49,pers,http://dbpedia.org/resource/Evgeny_Chichvarkin
+чичваркин,47,pers,http://dbpedia.org/resource/Evgeny_Chichvarkin
+генпрокуратура,2292,org,http://dbpedia.org/resource/Fancy_Bear
+генеральный прокуратура,394,org,link_not_found
+spacex,465,org,http://dbpedia.org/resource/SpaceX
+space.com,160,org,http://dbpedia.org/resource/Purch_Group
+bethesda,178,org,http://dbpedia.org/resource/National_Institutes_of_Health
+fitch ratings,102,org,http://dbpedia.org/resource/Fitch_Ratings
+система страхование вклад,52,org,link_not_found
+банк москва,474,org,link_not_found
+андрей бородин,166,pers,http://dbpedia.org/resource/Andrey_Borodin
+dow jones,316,org,http://dbpedia.org/resource/Dow_Jones_&_Company
+fitch,435,org,http://dbpedia.org/resource/Fitch_Ratings
+правительство,183,org,http://dbpedia.org/resource/Government_of_the_United_Kingdom
+козлов,121,pers,http://dbpedia.org/resource/Stefan_Kozlov
+левин,52,pers,http://dbpedia.org/resource/Benny_Blanco
+владимир,158,pers,http://dbpedia.org/resource/Dionysus
+управление,435,org,http://dbpedia.org/resource/Federal_Aviation_Administration
+deutsche bank,319,org,http://dbpedia.org/resource/Skyliners_Frankfurt
+минобрнауки,730,org,http://dbpedia.org/resource/Moscow_Aviation_Institute
+комсомольский правда,1157,org,link_not_found
+егоров,97,pers,http://dbpedia.org/resource/Igor_Egorov
+дмитрий,106,pers,http://dbpedia.org/resource/Dmitri_Shostakovich
+морозов,177,pers,http://dbpedia.org/resource/Nikolai_Morozov_(figure_skater)
+наталья,67,pers,http://dbpedia.org/resource/Natasha_Zvereva
+алексей миллер,762,pers,http://dbpedia.org/resource/Alexey_Miller
+опек,917,org,http://dbpedia.org/resource/OPEC
+хамовнический суд,293,org,link_not_found
+страсбургский суд,107,org,link_not_found
+правый дело,253,org,link_not_found
+юрий лужков,638,pers,http://dbpedia.org/resource/Yury_Luzhkov
+лужков,363,pers,http://dbpedia.org/resource/Yury_Luzhkov
+нафтогаз украина,568,org,link_not_found
+мвф,1488,org,http://dbpedia.org/resource/International_Monetary_Fund
+тимошенко,55,pers,http://dbpedia.org/resource/Yulia_Tymoshenko
+юлия тимошенко,161,pers,http://dbpedia.org/resource/Yulia_Tymoshenko
+the new york times,382,org,http://dbpedia.org/resource/The_New_York_Times_Company
+николя саркози,118,pers,http://dbpedia.org/resource/Nicolas_Sarkozy
+саркози,37,pers,http://dbpedia.org/resource/Nicolas_Sarkozy
+олег морозов,52,pers,http://dbpedia.org/resource/Oleg_Viktorovich_Morozov
+советский районный суд,37,org,link_not_found
+associated press,853,org,http://dbpedia.org/resource/Associated_Press
+wells fargo,61,org,http://dbpedia.org/resource/Wachovia_Securities
+bae systems,180,org,http://dbpedia.org/resource/BAE_Systems_Maritime_–_Naval_Ships
+пентагон,687,org,http://dbpedia.org/resource/United_States_Department_of_Defense
+lockheed martin,640,org,http://dbpedia.org/resource/Lockheed_Martin
+northrop grumman,164,org,http://dbpedia.org/resource/Huntington_Ingalls_Industries
+новый регион,93,org,link_not_found
+приват,59,org,http://dbpedia.org/resource/FC_Dnipro
+boeing,985,org,http://dbpedia.org/resource/Boeing
+cnn,261,org,http://dbpedia.org/resource/CNN_International
+dreamliner,52,org,http://dbpedia.org/resource/Boeing
+saab,97,org,http://dbpedia.org/resource/Saab_AB
+rafale,45,org,http://dbpedia.org/resource/Grande_Armée
+совет федерация,2990,org,link_not_found
+николаев,98,pers,http://dbpedia.org/resource/Aleksei_Nikolaev_(referee)
+минэнерго,1193,org,http://dbpedia.org/resource/Ministry_of_Energy_(Russia)
+минюст,958,org,http://dbpedia.org/resource/Ministry_of_Justice_(Russia)
+санкт-петербург,64,org,http://dbpedia.org/resource/FC_Zenit-2_Saint_Petersburg
+министерство энергетика,209,org,link_not_found
+life news,1154,org,http://dbpedia.org/resource/Life.ru
+москва,681,org,http://dbpedia.org/resource/FC_Spartak_Moscow
+кпрф,2740,org,http://dbpedia.org/resource/Patriots_of_Russia
+центральный избирательный комиссия,134,org,link_not_found
+цик,1166,org,http://dbpedia.org/resource/Soviet_Navy
+вгтрк,212,org,http://dbpedia.org/resource/Russia-1
+государственный дума,1079,org,link_not_found
+весть,161,org,http://dbpedia.org/resource/An-Naba
+jp morgan,130,org,http://dbpedia.org/resource/JPMorgan_Chase
+the wall street journal,1101,org,http://dbpedia.org/resource/Wall_Street_Journal_Radio_Network
+citi,82,org,http://dbpedia.org/resource/Citigroup
+законодательный собрание,416,org,link_not_found
+европейский суд по право человек,373,org,link_not_found
+российский академия наука,303,org,link_not_found
+дума,683,org,http://dbpedia.org/resource/State_Duma
+главный управление,436,org,link_not_found
+кп,109,org,http://dbpedia.org/resource/Communist_Party_USA
+final fantasy,62,org,http://dbpedia.org/resource/One_True_King
+square enix,183,org,http://dbpedia.org/resource/Square_Enix_Europe
+kotaku,222,org,http://dbpedia.org/resource/Video_game_journalism
+вдв,227,org,http://dbpedia.org/resource/Ryazan-VDV
+совет депутат,51,org,link_not_found
+светлана,57,pers,http://dbpedia.org/resource/Svetlana_Kuznetsova
+екатерина,46,pers,http://dbpedia.org/resource/Catherine_the_Great
+спс,44,org,http://dbpedia.org/resource/Socialist_Party_of_Serbia
+гайдар,50,org,http://dbpedia.org/resource/Carnegie_Endowment_for_International_Peace
+мгу,832,org,http://dbpedia.org/resource/Moscow_State_University
+волков,293,pers,http://dbpedia.org/resource/Nikolai_Volkoff
+егор гайдар,39,pers,http://dbpedia.org/resource/Yegor_Gaidar
+цду тэк,46,org,link_not_found
+новатэка,126,org,link_not_found
+фссп,212,org,link_not_found
+федеральный служба судебный пристав (фссп),130,org,link_not_found
+куликов,53,pers,http://dbpedia.org/resource/Ilya_Repin
+федеральный служба охрана,113,org,link_not_found
+нато,860,org,http://dbpedia.org/resource/NATO
+дмитрий рогозин,674,pers,http://dbpedia.org/resource/Dmitry_Rogozin
+рогозин,441,pers,http://dbpedia.org/resource/Dmitry_Rogozin
+сергей лавров,749,pers,http://dbpedia.org/resource/Sergey_Lavrov
+бирюков,130,pers,http://dbpedia.org/resource/Mikhail_Biryukov_(tennis)
+владимир колокольцев,233,pers,http://dbpedia.org/resource/Vladimir_Kolokoltsev
+виктор бирюков,90,pers,link_not_found
+кузнецов,262,pers,http://dbpedia.org/resource/Andrey_Kuznetsov_(tennis)
+атлантис,44,org,http://dbpedia.org/resource/Atlantis_FC
+минэкономики,143,org,http://dbpedia.org/resource/Minister_of_Finance_(Belarus)
+андрей клепач,201,pers,http://dbpedia.org/resource/Andrei_Klepach
+центризбирком,863,org,http://dbpedia.org/resource/Central_Election_Commission_(Russia)
+министерство внутренний дело,182,org,link_not_found
+рашид нургалиев,170,pers,http://dbpedia.org/resource/Rashid_Nurgaliyev
+ирина,70,pers,http://dbpedia.org/resource/Dionysus
+грызлов,93,pers,http://dbpedia.org/resource/Boris_Gryzlov
+борис грызлов,249,pers,http://dbpedia.org/resource/Boris_Gryzlov
+внешэкономбанк (вэб),77,org,http://dbpedia.org/resource/VEB.RF
+федеральный собрание,683,org,link_not_found
+автоваз,577,org,http://dbpedia.org/resource/AvtoVAZ
+минрегиона,61,pers,link_not_found
+собинбанка,55,org,link_not_found
+роспатент,106,org,http://dbpedia.org/resource/Sistema
+росстата,893,org,http://dbpedia.org/resource/Federal_State_Statistics_Service_(Russia)
+банк втб,40,org,http://dbpedia.org/resource/VTB_Bank
+кристалл,41,org,http://dbpedia.org/resource/FC_Krystal_Kherson
+анисимов,37,pers,http://dbpedia.org/resource/Artem_Anisimov
+владимир соловьёв,86,pers,http://dbpedia.org/resource/Vladimir_Solovyov_(philosopher)
+ространснадзор,67,org,http://dbpedia.org/resource/Federal_Service_for_Supervision_of_Transport
+минтранс,870,org,http://dbpedia.org/resource/Ministry_of_Transport_(Russia)
+росавиации,531,org,http://dbpedia.org/resource/Transaero
+атлант-союз,49,org,http://dbpedia.org/resource/Atlant-Soyuz_Airlines
+александр нерадько,84,pers,link_not_found
+игорь левитин,129,pers,http://dbpedia.org/resource/Igor_Levitin
+упк,43,org,http://dbpedia.org/resource/Ministry_of_Internal_Affairs_(Russia)
+сергей шаталов,59,pers,link_not_found
+drdo,62,org,http://dbpedia.org/resource/Defence_Research_and_Development_Organisation
+организация оборонный исследование и разработка (drdo),97,org,link_not_found
+gartner,82,org,http://dbpedia.org/resource/Gartner
+android market,82,org,http://dbpedia.org/resource/Creative_Mobile
+роспотребнадзор,1198,org,http://dbpedia.org/resource/Federal_Service_for_Surveillance_on_Consumer_Rights_Protection_and_Human_Wellbeing
+рвсн,93,org,http://dbpedia.org/resource/Russian_Armed_Forces
+вас,62,org,http://dbpedia.org/resource/East_African_Community
+арбитражный суд,951,org,http://dbpedia.org/resource/Court_of_Arbitration_for_Sport
+следственный управление,724,org,link_not_found
+s ,971,org,http://dbpedia.org/resource/Queen's_University_at_Kingston
+ jane,167,org,http://dbpedia.org/resource/Red_Hot_Chili_Peppers
+московский хельсинкский группа,177,org,link_not_found
+мемориал,194,org,http://dbpedia.org/resource/Memorial_(society)
+олег орлов,54,pers,link_not_found
+людмила алексеев,249,pers,link_not_found
+рамзан кадыров,1146,pers,http://dbpedia.org/resource/Ramzan_Kadyrov
+росалкогольрегулирование,91,org,http://dbpedia.org/resource/Federal_Service_for_Alcohol_Market_Regulation
+торгово-промышленный палата,150,org,link_not_found
+v1.ru,39,org,link_not_found
+fox news,78,org,http://dbpedia.org/resource/Fox_News
+клепач,94,pers,http://dbpedia.org/resource/Andreja_Klepač
+андрей клепача,37,pers,link_not_found
+алмаз-антей,91,org,http://dbpedia.org/resource/NPO_Almaz
+пво,252,org,http://dbpedia.org/resource/Soviet_Air_Defence_Forces
+александр зелин,51,pers,http://dbpedia.org/resource/Alexander_Zelin
+all nippon airways,43,org,http://dbpedia.org/resource/All_Nippon_Airways
+иисус христос,70,pers,http://dbpedia.org/resource/Jesus
+агентство национальный безопасность,40,org,link_not_found
+оон,1308,org,http://dbpedia.org/resource/United_Nations_peacekeeping
+nature news,370,org,http://dbpedia.org/resource/World_Channel
+intel,366,org,http://dbpedia.org/resource/Intel
+hewlett-packard,102,org,http://dbpedia.org/resource/Hewlett-Packard
+федеральный антимонопольный служба,614,org,link_not_found
+dell,101,org,http://dbpedia.org/resource/Dell
+юрий чайка,519,pers,http://dbpedia.org/resource/Yury_Chaika
+иванов,484,pers,http://dbpedia.org/resource/Gjorge_Ivanov
+edge,39,org,http://dbpedia.org/resource/Bristol_Rovers_F.C.
+минкомсвязи,444,org,http://dbpedia.org/resource/DDoS-Guard
+proceedings of the national academy of sciences,463,org,http://dbpedia.org/resource/HighWire
+фрс,354,org,http://dbpedia.org/resource/Federal_Reserve
+time,68,org,http://dbpedia.org/resource/Intel
+федеральный резервный система,241,org,link_not_found
+бен бернанке,37,pers,http://dbpedia.org/resource/Ben_Bernanke
+capcom,164,org,http://dbpedia.org/resource/Capcom
+famitsu,65,org,http://dbpedia.org/resource/Video_game_journalism
+бмв,57,org,http://dbpedia.org/resource/BMW
+ауди,50,org,link_not_found
+центр,113,org,http://dbpedia.org/resource/Lviv
+вооружить сила,658,org,link_not_found
+вс,329,org,http://dbpedia.org/resource/United_States_Armed_Forces
+нко,295,org,http://dbpedia.org/resource/Nonprofit_organization
+министерство юстиция,355,org,link_not_found
+владимир потанин,261,pers,http://dbpedia.org/resource/Vladimir_Potanin
+потанин,103,pers,http://dbpedia.org/resource/Vladimir_Potanin
+трансаэро,493,org,http://dbpedia.org/resource/Transaero
+домодедово,1015,org,http://dbpedia.org/resource/S7_Airlines
+федеральный миграционный служба,200,org,link_not_found
+роснано,356,org,http://dbpedia.org/resource/VEB.RF
+чубайс,171,pers,http://dbpedia.org/resource/Anatoly_Chubais
+анатолий чубайс,274,pers,http://dbpedia.org/resource/Anatoly_Chubais
+the guardian,544,org,http://dbpedia.org/resource/Social_democracy
+s7,166,org,http://dbpedia.org/resource/S7_Airlines
+глобус,69,org,http://dbpedia.org/resource/British_Academy_of_Film_and_Television_Arts
+министерство культура,130,org,link_not_found
+алексей,179,pers,http://dbpedia.org/resource/Dionysus
+мария,69,pers,"http://dbpedia.org/resource/Mary,_Queen_of_Scots"
+николай ii,115,pers,http://dbpedia.org/resource/Nicholas_II_of_Russia
+почта россия,491,org,link_not_found
+почтовый банк,43,org,http://dbpedia.org/resource/Japan_Post_Bank
+фгуп почта россия,59,org,link_not_found
+дмитрий песков,3546,pers,http://dbpedia.org/resource/Dmitry_Peskov
+аркадий дворкович,730,pers,http://dbpedia.org/resource/Arkady_Dvorkovich
+новосибирский государственный университет,35,org,http://dbpedia.org/resource/Novosibirsk_State_University
+спбгу,114,org,http://dbpedia.org/resource/Saint_Petersburg_State_University
+мфти,73,org,http://dbpedia.org/resource/Moscow_Institute_of_Physics_and_Technology
+nature,808,org,http://dbpedia.org/resource/International_Union_for_Conservation_of_Nature
+рбк,1433,org,http://dbpedia.org/resource/RBC_Roosendaal
+иа regnum,62,org,link_not_found
+униан,211,org,http://dbpedia.org/resource/U.D._Leiria
+нафтогаз,1015,org,http://dbpedia.org/resource/Naftogaz
+мгимо,115,org,http://dbpedia.org/resource/Moscow_State_Institute_of_International_Relations
+московский метрополитен,367,org,http://dbpedia.org/resource/Moscow_Metro
+пушкин,56,pers,http://dbpedia.org/resource/Alexander_Pushkin
+россельхознадзор,554,org,http://dbpedia.org/resource/Federal_Service_for_Veterinary_and_Phytosanitary_Supervision_(Russia)
+рбк daily,767,org,link_not_found
+минсельхоз,776,org,http://dbpedia.org/resource/Ministry_of_Agriculture_(Russia)
+сергей неверов,282,pers,http://dbpedia.org/resource/Sergey_Neverov
+единоросы,41,pers,link_not_found
+андрей исаев,138,pers,http://dbpedia.org/resource/Andrey_Isayev
+ирина яровой,135,pers,link_not_found
+акулинин,38,pers,http://dbpedia.org/resource/Leonid_Akulinin
+россия,534,org,http://dbpedia.org/resource/United_Russia
+airbus,483,org,http://dbpedia.org/resource/Airbus
+объединить авиастроительный корпорация (оак),104,org,link_not_found
+ростехнологии,270,org,http://dbpedia.org/resource/Rostec
+саратовский авиалиния,100,org,link_not_found
+оренбургский авиалиния,121,org,link_not_found
+международный группа исследователь,43,org,link_not_found
+the financial times,924,org,http://dbpedia.org/resource/FTSE_Group
+гонконгский биржа,62,org,link_not_found
+русал,387,org,http://dbpedia.org/resource/Alcoa
+басманный суд,313,org,link_not_found
+басманном суд,35,org,link_not_found
+ходорковский,387,pers,http://dbpedia.org/resource/Mikhail_Khodorkovsky
+платон лебедев,308,pers,http://dbpedia.org/resource/Platon_Lebedev
+лебедев,652,pers,http://dbpedia.org/resource/Mikhail_Khodorkovsky
+ушаков,116,pers,http://dbpedia.org/resource/Fyodor_Ushakov
+нацбанк,498,org,http://dbpedia.org/resource/Nadra_Bank
+коммерсант-украина,44,org,link_not_found
+махмудов,41,pers,http://dbpedia.org/resource/Emin_Mahmudov
+activision blizzard,47,org,http://dbpedia.org/resource/Activision_Blizzard
+рубин,70,org,http://dbpedia.org/resource/FC_Rubin_Kazan
+nvidia,94,org,http://dbpedia.org/resource/Nvidia
+гражданский самолёт сухой,171,org,link_not_found
+объединить авиастроительный корпорация,131,org,link_not_found
+европейский южный обсерватория,60,org,link_not_found
+анатолий сердюков,657,pers,http://dbpedia.org/resource/Anatoly_Serdyukov
+александр,157,pers,http://dbpedia.org/resource/Alexander_I_of_Russia
+михаил,59,pers,http://dbpedia.org/resource/Michael_(archangel)
+госдеп,217,org,http://dbpedia.org/resource/United_States_Department_of_State
+госдепартамент,300,org,link_not_found
+лавров,376,pers,http://dbpedia.org/resource/Sergey_Lavrov
+обама,458,pers,http://dbpedia.org/resource/Barack_Obama
+михаил суходольский,45,pers,link_not_found
+ржд,1355,org,http://dbpedia.org/resource/Russian_Railways
+siemens,208,org,http://dbpedia.org/resource/Siemens-Schuckert
+оао российский железный дорога,38,org,link_not_found
+microsoft,1761,org,http://dbpedia.org/resource/Microsoft
+wii,91,org,http://dbpedia.org/resource/WiiWare
+курчатовский институт,37,org,http://dbpedia.org/resource/All-Russian_Institute_Of_Aviation_Materials
+сеть,119,org,http://dbpedia.org/resource/Eurosport
+агентство по страхование вклад,268,org,link_not_found
+ростелеком,546,org,http://dbpedia.org/resource/Rostelecom
+газпромбанк,624,org,http://dbpedia.org/resource/Echo_of_Moscow
+фонтанка.ру,524,org,link_not_found
+american express,37,org,http://dbpedia.org/resource/American_Express
